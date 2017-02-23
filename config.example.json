@@ -1,0 +1,12 @@
+{
+    "accreditor": {
+        "url": "http://accreditor.spielstand.net/generate",
+        "user": "userService",
+        "password": "secretPasswordThatIsSomewhatSecureBecauseOfTheLength"
+    },
+    "users": {
+        "user1": {
+            "password": "password1"
+        }
+    }
+}
