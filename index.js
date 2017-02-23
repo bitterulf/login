@@ -41,7 +41,6 @@ server.route({
 		}
 
         accreditatePayload({username: user.name}, function(err, result) {
-            console.log(err);
             reply(result);
         });
     }
